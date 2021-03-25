@@ -1,0 +1,1 @@
+En este repositorio subiremos los códigos del curso por clase. Cada carpeta de este repositorio corresponde al código revisado en clase. 
