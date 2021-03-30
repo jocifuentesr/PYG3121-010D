@@ -1,0 +1,22 @@
+nav{
+    text-align: right;
+}
+#intro{
+
+    background-color: antiquewhite;
+}
+
+#equipo{
+    background-color: aquamarine;
+}
+#adopta{
+    background-color: cornsilk;
+    padding: 20px;
+}
+.destacado{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.interior{
+    padding: 20px;
+}
